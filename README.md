@@ -82,7 +82,7 @@ Compensation values were originally recorded as ranges (e.g., `10,000–19,999`)
 
 Several analyses were conducted to identify patterns within the dataset.
 
-## 1️⃣ Geographic Distribution of Respondents
+## **1️.** Geographic Distribution of Respondents
 
 The survey responses were heavily concentrated in certain regions. India and the United States contributed the largest number of respondents.
 
@@ -91,7 +91,7 @@ The dataset is geographically imbalanced, meaning insights may reflect trends fr
 
 ---
 
-## 2️⃣ Gender Distribution
+## **2.** Gender Distribution
 
 The gender distribution analysis shows a significant majority of respondents identifying as male, with a smaller proportion identifying as female or other gender identities.
 
@@ -100,7 +100,7 @@ This highlights the continuing **gender imbalance in the data science and techno
 
 ---
 
-## 3️⃣ Average Salary by Job Role
+## **3.** Average Salary by Job Role
 
 The analysis of compensation by job role shows that **executive and managerial positions** (such as Chief Officer and Product Manager) report the highest average salaries.
 
@@ -109,7 +109,7 @@ Leadership and managerial roles typically command higher compensation due to str
 
 ---
 
-## 4️⃣ Programming Language Popularity
+## **4.** Programming Language Popularity
 
 The most commonly used programming languages among respondents were:
 
@@ -124,7 +124,7 @@ Python and SQL dominate the data science ecosystem due to their strong support f
 
 ---
 
-## 5️⃣ Programming Languages per Respondent
+## **5.** Programming Languages per Respondent
 
 Analysis of the number of programming languages used per respondent shows:
 
@@ -137,7 +137,7 @@ Data professionals tend to rely on a **small set of core tools rather than many 
 
 ---
 
-# 📊 Visualizations
+# Visualizations
 
 The project includes several visualizations to support the analysis:
 
@@ -151,7 +151,7 @@ These visualizations help reveal patterns and make the findings easier to interp
 
 ---
 
-# 🛠 Technologies Used
+# Technologies Used
 
 The project was implemented using the following tools and libraries:
 
@@ -166,7 +166,7 @@ The project was implemented using the following tools and libraries:
 
 
 
-# 📌 Key Takeaways
+#  Key Takeaways
 
 * The global data science community is highly concentrated in a few countries.
 * There remains a noticeable gender imbalance in the field.
